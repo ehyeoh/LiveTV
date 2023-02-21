@@ -1,0 +1,8 @@
+Celestial Movies Hong Kong 天映頻道 電視聯播網  (Not Working)
+<video id='CelestialMovies'  class="video-js vjs-default-skin" width="400" height="300" controls>
+<source type="application/x-mpegURL" src="http://210.210.155.37/dr9445/h/h14/index.m3u8">
+</video>
+鳳凰衛視中文 (Not Working)
+<video id='PhoenixChineseChannel'  class="video-js vjs-default-skin" width="400" height="300" controls>
+<source type="application/x-mpegURL" src="http://210.210.155.37/uq2663/h/h157/index2.m3u8">
+</video>
