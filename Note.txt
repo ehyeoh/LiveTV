@@ -6,3 +6,7 @@ Celestial Movies Hong Kong 天映頻道 電視聯播網  (Not Working)
 <video id='PhoenixChineseChannel'  class="video-js vjs-default-skin" width="400" height="300" controls>
 <source type="application/x-mpegURL" src="http://210.210.155.37/uq2663/h/h157/index2.m3u8">
 </video>
+CCTV4 Asia (Not Working)
+<video id='cctv4Asia'  class="video-js vjs-default-skin" width="400" height="300" controls>
+<source type="application/x-mpegURL" src="http://210.210.155.37/qwr9ew/s/s19/index.m3u8">
+</video>
