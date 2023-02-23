@@ -1,0 +1,24 @@
+<!-- CSS  -->
+ <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+
+
+<!-- HTML -->
+Bloomberg TV Asia
+<video id='BloombergTVAsia'  class="video-js vjs-default-skin" width="800" height="600" controls autoplay>
+<source type="application/x-mpegURL" src="http://210.210.155.37/dr9445/h/h03/index.m3u8">
+</video>
+ 
+<a href="https://chinaq.biz/cn">中國人線上看</a>
+
+
+<!-- JS code -->
+<!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+<script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
+<script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+
+
+<script>
+var player = videojs('BloombergTVAsia');
+player.play();
+</script>
